@@ -1,0 +1,9 @@
+.buildlog
+.DS_Store
+.idea
+.packages
+.settings
+.pub/
+build/
+packages
+pubspec.lock
